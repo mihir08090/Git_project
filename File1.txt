@@ -1,3 +1,5 @@
 This is the first Git session
 
 Changes made to this file just to commit again
+
+Second change made to this file
